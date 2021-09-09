@@ -9,6 +9,7 @@
 
 <script>
 console.log("test")
+console.log("test")
 export default {
   name: 'HelloWorld',
   data () {
