@@ -8,8 +8,7 @@
 </template>
 
 <script>
-console.log("test")
-console.log("test")
+console.log("tes111t")
 export default {
   name: 'HelloWorld',
   data () {
