@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SignData>
+<TradeType name="test">test</TradeType>
+<Timestamp>1637046270</Timestamp>
+<Fields>
+    <test name="测试">123132</test>
+</Fields>
+</SignData>
+
